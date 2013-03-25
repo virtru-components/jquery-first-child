@@ -1,0 +1,12 @@
+{
+  "name": "jquery-first-child",
+  "repo": "virtru-components/jquery-first-child",
+  "version": "0.1.0",
+  "description": "Get the first child",
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}
