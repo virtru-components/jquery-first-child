@@ -1,0 +1,8 @@
+{
+  "name": "jquery-first-child",
+  "version": "0.2.0",
+  "description": "Get the first child",
+  "dependencies": {
+    "jquery": "2.1.0"
+  }
+}
